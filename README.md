@@ -2,6 +2,9 @@
 
 A lightweight, modern auto-clicker with advanced window targeting.
 
+## Download
+👉 Get the latest version from the [Releases](../../releases) page.
+
 ## Features
 - Click in specific windows while using your mouse elsewhere
 - Fast click intervals (1ms - 10s)
@@ -16,15 +19,12 @@ A lightweight, modern auto-clicker with advanced window targeting.
 - Single file, no installation
 - Clean, modern interface
 
-## Requirements
-- Windows 10/11
-- No extra software needed
-
-## Download
-Get the latest version from the [Releases](../../releases) page.
-
 ## Quick Start
 1. Select target window
 2. Set click interval
 3. F7 to capture position
 4. F6 to start/stop
+
+## Requirements
+- Windows 10/11
+- No extra software needed
